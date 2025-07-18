@@ -1,4 +1,4 @@
-const contratoEndereco = "0xD4Fc541236927E2EAf8F27606bD7309C1Fc2cbee"; // contrato implantado
+const contratoEndereco = "0x7b96aF9Bd211cBf6BA5b0dd53aa61Dc5806b6AcE"; // contrato implantado
 
 const abiContrato = [
   {
