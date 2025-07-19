@@ -32,7 +32,7 @@ The slide deck is available in SLIDES.pdf
 
 
 PROJETOSTRANSVERSAIS/
-**├── index.html           → main DApp interface*
+*├── index.html           → main DApp interface*
 *├── script.js            → interaction logic using Ethers.js*
 *├── EventoPresenca.sol   → smart contract code
 ├── SLIDES.pdf           → presentation slides
