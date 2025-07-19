@@ -22,16 +22,14 @@ This project is a DApp designed for practical academic verification. Each univer
     Checks if a wallet has already registered (jaCompareceu())
 
 🌐 Access the DApp
-
 Visit the live app: https://andreeetmt.github.io/PROJETOSTRANSVERSAIS/
-
 or scan the qr code bellow
 
 📷 Presentation
 The slide deck is available in SLIDES.pdf
 
+PROJETOSTRANSVERSAIS
 
-PROJETOSTRANSVERSAIS/
 ├── index.html           → main DApp interface
 
 ├── script.js            → interaction logic using Ethers.js
@@ -41,5 +39,10 @@ PROJETOSTRANSVERSAIS/
 ├── SLIDES.pdf           → presentation slides
 
 └── README.md            → this documentation
+
+👨‍🎓 Author
+André Toussaint
+University Registration: 241038058
+André, a Technology and Network Engineering student, is passionate about decentralized solutions that simplify academic systems.
 
 
