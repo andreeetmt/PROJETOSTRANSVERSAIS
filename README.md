@@ -54,5 +54,10 @@ André, a Technology and Network Engineering student, is passionate about decent
 5. Approve the transaction via MetaMask  
 6. ✅ Your attendance is now verified and permanently stored on the blockchain!
 
+## 📱 Access via QR Code
+Scan the QR code below to access the DApp website directly:
+![QR Code](qrcode.png)
+
+
 
 
