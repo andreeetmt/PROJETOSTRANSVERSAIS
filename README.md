@@ -49,7 +49,7 @@ André, a Technology and Network Engineering student, is passionate about decent
 ## 📦 How to Use
 1. Open the file `EventoPresenca.sol` in [Remix](https://remix.ethereum.org) and deploy the contract  
 2. Copy the deployed **contract address** and paste it into the `script.js` file (look for the `contratoEndereco` variable)
-   
+   ![replace with your deploy address](image.png)
 4. Save your changes and open the website (hosted via GitHub Pages)  
 5. Enter your full name — this will be linked to your wallet  
 6. Approve the transaction via MetaMask  
