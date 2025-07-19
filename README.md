@@ -52,6 +52,8 @@ André, a Technology and Network Engineering student, is passionate about decent
    
   **replace with your deploy address->**
    ![replace with your deploy address](image.png)
+
+
 4. Save your changes and open the website (hosted via GitHub Pages)  
 5. Enter your full name — this will be linked to your wallet  
 6. Approve the transaction via MetaMask  
