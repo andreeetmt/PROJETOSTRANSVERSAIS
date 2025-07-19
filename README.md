@@ -54,6 +54,7 @@ André, a Technology and Network Engineering student, is passionate about decent
 5. Enter your full name — this will be linked to your wallet  
 6. Approve the transaction via MetaMask  
 7. ✅ Your attendance is now verified and permanently stored on the blockchain!
+   > 🔍 **Note:** You can verify the interaction between your wallet and the exact deployed smart contract address using blockchain explorers (e.g. [Etherscan](https://etherscan.io)) by searching the MetaMask wallet address you used during the transaction.
 
 ## 📱 Access via QR Code
 Scan the QR code below to access the DApp website directly:
