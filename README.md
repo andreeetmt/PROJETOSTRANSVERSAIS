@@ -24,7 +24,7 @@ This project is a DApp designed for practical academic verification. Each univer
 
 ## 🌐Access the DApp
 Visit the live app: https://andreeetmt.github.io/PROJETOSTRANSVERSAIS/
-or scan the qr code bellow
+or scan the qr code (which would be necessary in real life practice)
 
 ## 📷Presentation
 The slide deck is available in SLIDES.pdf
@@ -48,11 +48,12 @@ André, a Technology and Network Engineering student, is passionate about decent
 
 ## 📦 How to Use
 1. Open the file `EventoPresenca.sol` in [Remix](https://remix.ethereum.org) and deploy the contract  
-2. Copy the deployed **contract address** and paste it into the `script.js` file (look for the `contratoEndereco` variable)  
-3. Save your changes and open the website (hosted via GitHub Pages)  
-4. Enter your full name — this will be linked to your wallet  
-5. Approve the transaction via MetaMask  
-6. ✅ Your attendance is now verified and permanently stored on the blockchain!
+2. Copy the deployed **contract address** and paste it into the `script.js` file (look for the `contratoEndereco` variable)
+   
+4. Save your changes and open the website (hosted via GitHub Pages)  
+5. Enter your full name — this will be linked to your wallet  
+6. Approve the transaction via MetaMask  
+7. ✅ Your attendance is now verified and permanently stored on the blockchain!
 
 ## 📱 Access via QR Code
 Scan the QR code below to access the DApp website directly:
