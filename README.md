@@ -21,5 +21,7 @@ This project is a DApp designed for practical academic verification. Each univer
     Allows public retrieval of registered data (obterComprovante())
     Checks if a wallet has already registered (jaCompareceu())
 
+🌐 Access the DApp
 
+Visit the live app: 
  
