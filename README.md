@@ -10,6 +10,16 @@ This project is a DApp designed for practical academic verification. Each univer
 🛠️ Technologies Used
 
     Solidity – smart contract development (EventoPresenca.sol)
-
+    GitHub Pages – free hosting for the DApp
     HTML + JavaScript – frontend interface for MetaMask interaction
+    ether.js- library for connecting the interface to smart contract
 
+📄 Features
+
+    Attendance registration via MetaMask transaction
+    Emits a PresencaRegistrada event upon successful registration
+    Allows public retrieval of registered data (obterComprovante())
+    Checks if a wallet has already registered (jaCompareceu())
+
+
+ 
