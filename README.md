@@ -56,6 +56,8 @@ André, a Technology and Network Engineering student, is passionate about decent
 
 ## 📱 Access via QR Code
 Scan the QR code below to access the DApp website directly:
+
+
 ![QR Code](qrcode.png)
 
 
