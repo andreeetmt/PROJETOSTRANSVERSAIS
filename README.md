@@ -1,2 +1,2 @@
-# PROJETOSTRANSVERSAIS
-Trabalho final da materia projetos transversais
+# PROJETOS TRANSVERSAIS
+Trabalho final da matéria projetos transversais
