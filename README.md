@@ -1,2 +1,4 @@
 # PROJETOS TRANSVERSAIS
-Trabalho final da matéria projetos transversais
+📘 TRANSVERSALPROJECTS
+
+Final project for the course Transversal Projects, focused on building a DApp for academic attendance recording using blockchain technology.
