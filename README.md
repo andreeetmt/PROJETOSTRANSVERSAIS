@@ -26,4 +26,7 @@ This project is a DApp designed for practical academic verification. Each univer
 Visit the live app: https://andreeetmt.github.io/PROJETOSTRANSVERSAIS/
 
 or scan the qr code bellow
+
+📷 Presentation
+The slide deck is available in SLIDES.pdf
  
