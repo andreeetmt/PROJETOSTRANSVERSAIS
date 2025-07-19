@@ -1,7 +1,7 @@
 <h1 align="center"> TRANSVERAL PROJECTS-University of Brasília(UnB)</h1>
 
 <p align="center">
-  <img src="preview.gif" alt="Project Preview" width="600"/>
+  <img src="printsforreadme/preview.gif" alt="Project Preview" width="600"/>
 </p>
 
 
@@ -56,7 +56,7 @@ André, a Technology and Network Engineering student, is passionate about decent
 2. Copy the deployed **contract address** and paste it into the `script.js` file (look for the `contratoEndereco` variable)
    
   **replace with your deploy address->**
-   ![replace with your deploy address](image.png)
+   ![replace with your deploy address](printsforreadme/image.png)
 
 
 4. Save your changes and open the website (hosted via GitHub Pages)  
@@ -69,7 +69,7 @@ André, a Technology and Network Engineering student, is passionate about decent
 Scan the QR code below to access the DApp website directly:
 
 
-![QR Code](qrcode.png)
+![QR Code](printsforreadme/qrcode.png)
 
 
 
