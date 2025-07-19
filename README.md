@@ -1,6 +1,6 @@
-# PROJETOS TRANSVERSAIS
-📘 TRANSVERSALPROJECTS
+<h1 align="center"> TRANSVERAL PROJECTS-University of Brasília(UnB)</h1>
 
+📘 TRANSVERSALPROJECTS
 Final project for the course Transversal Projects, focused on building a DApp for academic attendance recording using blockchain technology.
 
 🚀 About the Project
@@ -44,5 +44,7 @@ PROJETOSTRANSVERSAIS
 André Toussaint
 University Registration: 241038058
 André, a Technology and Network Engineering student, is passionate about decentralized solutions that simplify academic systems.
+
+📦 How to Use
 
 
