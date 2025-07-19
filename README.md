@@ -1,6 +1,6 @@
 <h1 align="center"> TRANSVERAL PROJECTS-University of Brasília(UnB)</h1>
 
-## 📘TRANSVERSALPROJECTS
+## 📘TRANSVERSAL PROJECTS
 
 Final project for the course Transversal Projects, focused on building a DApp for academic attendance recording using blockchain technology.
 
