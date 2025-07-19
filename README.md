@@ -9,8 +9,8 @@
 Final project for the course Transversal Projects, focused on building a DApp for academic attendance recording using blockchain technology.
 
 ## 👨‍🎓 Author
-
 André Toussaint
+
 University Registration: 241038058
 André, a Technology and Network Engineering student, is passionate about decentralized solutions that simplify academic systems.
 
